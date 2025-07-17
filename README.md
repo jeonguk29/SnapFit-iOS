@@ -52,6 +52,8 @@ SnapFit/
 ---
 
 ## 🧩 VIP 패턴 설명
+<img width="848" height="408" alt="image" src="https://github.com/user-attachments/assets/6a974c66-eb23-4b3d-a116-be708a485889" />
+https://ios-development.tistory.com/340
 
 - **View**: 사용자 인터페이스, 사용자 입력을 Presenter로 전달
 - **Interactor**: 비즈니스 로직, UseCase 호출, 데이터 가공
